@@ -1,2 +1,2 @@
 # ScetchPunks_first_site
-Site_for_own_purposes
+Site for training. Also fing some intresting in trying to understand git philosophy.

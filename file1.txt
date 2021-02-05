@@ -1,0 +1,7 @@
+Some freaking words about my wow mistake.
+I just totally deleted my files in visual code, linked to my local git repo. I think you can understand what can i feel right now.
+Yep. Saddness in my eyes.
+There did nothing like it was something important. But it my time.
+Saaaad. 
+
+Just... watch your steps when you do smth with your repo with git commands.

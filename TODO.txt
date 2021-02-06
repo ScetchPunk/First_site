@@ -1,0 +1,9 @@
++1. Make sure that changes on pc will be on the GitHub repo/
+    Need that commands:
+    1) git push -u origin master
+2. Make first page of site 
+3. Watch 'till the end all the video about
+    +a) HTML (5.2), 
+    b) CSS, 
+    c) JS.
+4. Make psd format of the site that i want to.
